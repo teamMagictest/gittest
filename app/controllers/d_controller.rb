@@ -1,0 +1,2 @@
+class DController < ApplicationController
+end
